@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jbolivar13
 - 👀 I’m interested in Learn and get experience
-- 🌱 I’m currently learning Java, SQL, JavaScript
+- 🌱 I’m currently learning Java, React, NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
